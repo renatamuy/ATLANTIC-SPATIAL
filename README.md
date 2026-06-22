@@ -133,7 +133,7 @@ Norwegian Institute for Nature Research (NINA), Oslo, Norway
 
 <ins>[Renata L. Muylaert](https://renatamuy.github.io/)</ins>
 
-Molecular Epidemiology and Public Health Laboratory, Hopkirk Research Institute, Massey University, Palmerston North, New Zealand
+Disease Ecology Lab, Sydney School of Veterinary Science, The University of Sydney, Sydney, New South Wales, Australia
 
 <ins>[Milton Cezar Ribeiro]()</ins>
 
